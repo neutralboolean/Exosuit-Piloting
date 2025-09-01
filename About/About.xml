@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+	<name>Skilled Exosuit Piloting</name>
+	<author>AOBA x neutralboolean</author>
+	<packageId>neutralboolean.SEPiloting</packageId>
+	<description>Adds a skill for exosuit piloting, with optional Expertises.</description>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies></modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>brrainz.harmony</li>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>vanillaexpanded.skills</li>
+		<li>aoba.exosuit.framework</li>
+	</loadAfter>
+</ModMetaData>
